@@ -41,14 +41,15 @@ As we have conditional formatted the cells, we could clearly see by the color th
 
   Advantages:
 
-1) Improve the efficiency of the program.
-2) Good practice opportunities: help improve use of different functions, understand the logic.
-3) Help develop our problem solving skills: one methods won't always work. Therefore, when we encounter problems, we can try to avoid them by switching methods.
+  1) Improve the efficiency of the program.
+  2) Good practice opportunities: help improve use of different functions, understand the logic.
+  3) Help develop our problem solving skills: one methods won't always work. Therefore, when we encounter problems, we can try to avoid them by switching methods.
+
 
     Disadvantages:
 
-1) It could be time consuming when developing the codes.
-2) Some complicated methods may confuse ourselves.
+  1) It could be time consuming when developing the codes.
+  2) Some complicated methods may confuse ourselves.
 
 
 
@@ -56,12 +57,12 @@ As we have conditional formatted the cells, we could clearly see by the color th
 
   Advantages:
 
-1) It became more efficient when running large dataset after refactoring.
-2) The entire refactoring process was a good practice oppotunity.
+  1) It became more efficient when running large dataset after refactoring.
+  2) The entire refactoring process was a good practice oppotunity.
 
     Disadvantages:
 
-1) It was very time consuming for me to understand the second method.
-2) I made a lot of mistakes and spent much time trying to debug many line of code when refactoring.
-3) The refactored script was not as straight forward as the original one, therefore, it could be more difficult to be reused in the future.
+  1) It was very time consuming for me to understand the second method.
+  2) I made a lot of mistakes and spent much time trying to debug many line of code when refactoring.
+  3) The refactored script was not as straight forward as the original one, therefore, it could be more difficult to be reused in the future.
 
