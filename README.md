@@ -47,8 +47,9 @@ Advantages:
 
 Disadvantages:
 
-1）It could be time consuming when developing the codes.
+1) It could be time consuming when developing the codes.
 2) Some complicated methods may confuse ourselves.
+
 
 
 - What are the advantages and disadvantages of the original and refactored VBA script?
